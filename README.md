@@ -42,7 +42,7 @@ Here are some ideas to get you started: -->
   </tr>
   <tr>
   <tr>
-    <td align="center" colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=umang-singla&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Umang's Trophies" /></td>
+    <img width="766em" src="https://github-profile-trophy.vercel.app/?username=umang-singla&theme=discord&no-frame=true&row=1&column=7" />
   </tr>
 </table>
 <br>
