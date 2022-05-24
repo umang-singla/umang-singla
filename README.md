@@ -41,10 +41,8 @@ Here are some ideas to get you started: -->
     <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-singla&theme=blue-green&layout=compact&langs_count=10&hide_border=true" /></td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=umang-singla&theme=blue-green&hide_border=true" alt="Umang's wakatime stats" /></td>
-  </tr>
   <tr>
-    <td align="center" colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=umang-singla&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Naman's Trophies" /></td>
+    <td align="center" colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=umang-singla&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Umang's Trophies" /></td>
   </tr>
 </table>
 <br>
