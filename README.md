@@ -50,3 +50,5 @@ Here are some ideas to get you started: -->
 <!-- [![Naman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nsingla20&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![@umangsingla's Holopin board](https://holopin.me/umangsingla)](https://holopin.io/@umangsingla)
